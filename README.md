@@ -12,13 +12,10 @@ This repository contains curated lists of legitimate domains that should be allo
 
 **Path:** `unsubscribe-links/domains.txt`
 
-Contains domains used for legitimate email unsubscribe functionality. Blocking these domains can prevent users from being able to unsubscribe from mailing lists, which may violate regulations like CAN-SPAM or GDPR.
+Contains domains used for legitimate email unsubscribe functionality. Blocking these domains can prevent users from being able to unsubscribe from mailing lists.
 
-Current domains:
-- `l.engage.canva.com` - Canva email engagement/unsubscribe links
-- `ablink.seller.etsy.com` - Etsy seller notification unsubscribe links
-- `subscriptions.pstmrk.it` - Postmark email service unsubscribe management
-- `click.zoom.com` - Zoom email link tracking and unsubscribe
+> [!WARNING]
+> This list may allow some tracking links in emails, as marketing emails tend to use the same domain for all links in the email body.
 
 ## Usage
 
@@ -53,4 +50,4 @@ If you've found a legitimate domain that should be allowlisted, please:
 
 ## License
 
-This project is released into the public domain. Use it however you'd like.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
