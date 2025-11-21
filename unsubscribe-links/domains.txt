@@ -1,5 +1,5 @@
-awstrack.me
-l.engage.canva.com
-ablink.seller.etsy.com
-subscriptions.pstmrk.it
-click.zoom.com
+@@||awstrack.me^
+@@l.engage.canva.com^
+@@ablink.seller.etsy.com^
+@@subscriptions.pstmrk.it^
+@@click.zoom.com^
